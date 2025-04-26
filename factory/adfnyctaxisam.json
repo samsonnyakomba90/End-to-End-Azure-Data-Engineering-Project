@@ -1,0 +1,9 @@
+{
+	"name": "adfnyctaxisam",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "284ff88c-0a9a-4e13-8a48-e52611647680",
+		"tenantId": "e471f015-dc23-41bb-ac78-835a60efccda"
+	}
+}
