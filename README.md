@@ -4,8 +4,9 @@ Created three containers(bronze, silver and gold) in AZURE DATA LAKE GEN 2
 
 Ingested data from HTTP sources into ADLS.
 
-Built ADF pipelines for scheduled data movement and orchestration.
-
+Built ADF Dynamic pipelines for scheduled data movement and orchestration.
+Actvities(GetMetadata, Foreach, If condition)
 Developed Databricks notebooks for data cleansing, aggregation, and transformations using PySpark.
-
+Managed vs External Tables
+Delta Lake , Delta Live Tables
 Stored transformed data into curated zones in ADLS.
